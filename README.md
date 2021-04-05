@@ -33,7 +33,6 @@ NOTE 2: after you type each command, make sure you READ what your command line s
 1. **Owner**: add text to line 1 (after 1).  
 _ex:_ `1 Alice was here!`  
 2. **Collaborator**: add text to line 3 (NOT line 2).  
-_ex:_ `3 Bob was here!`  
 ### IMPORTANT SIDENOTE: There must be one extra line BETWEEN the edits.  Otherwise, you will get a merge conflict.  
 3. **Owner**: `add`, `commit`, and `push`. You shouldn't have any issues.  
 4. **Collaborator**: Try to do `git pull`. You will be prompted with an error that ends with:  
