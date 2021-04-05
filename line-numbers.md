@@ -1,4 +1,4 @@
-#### 1
+#### Attack on Titan is still the best anime.
 #### 2
 #### 3
 #### 4
