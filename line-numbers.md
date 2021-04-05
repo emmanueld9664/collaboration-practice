@@ -4,7 +4,7 @@
 #### 4
 #### 5
 #### 6
-#### 7
+#### Demon Slayer Mugen Train should have been out already.
 #### 8
 #### 9
 #### 10
